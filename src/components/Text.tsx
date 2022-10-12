@@ -1,5 +1,5 @@
 export function Text() {
     return (
-        <h1>Text</h1>
+        <span className="text-gray-100">Text</span>
     )
 }
